@@ -25,12 +25,12 @@ export default function Navigation({onClose}) {
                     <FontAwesomeIcon icon={faHouseUser} size="2x" style={{color: "#004166"}} /><Text as="b">Home</Text>
                 </HStack>
             </Link>
-            <Link href="/#work" onClick={handleNavigation("work")}>
+            <Link href="#work" onClick={handleNavigation("work")}>
                 <HStack textAlign="center">
                     <FontAwesomeIcon icon={faBriefcase} size="2x" style={{color: "#004166"}} /><Text as="b">Work</Text>
                 </HStack>
             </Link>
-            <Link href="/#projects" onClick={handleNavigation("projects")}>
+            <Link href="#projects" onClick={handleNavigation("projects")}>
                 <HStack textAlign="center">
                     <FontAwesomeIcon icon={faDiagramProject} size="2x" style={{color: "#004166"}} /><Text as="b">Projects</Text>
                 </HStack>

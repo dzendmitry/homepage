@@ -1,6 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "homepage",
   "version": "0.1.0",
+  "homepage": "https://dzendmitry.github.io/homepage",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.10.3",
@@ -21,7 +22,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://dzendmitry.github.io/homepage",
   "scripts": {
     "start": "react-scripts start",
     "predeploy" : "npm run build",

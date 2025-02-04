@@ -9,11 +9,11 @@ const works = [
         lineColor: "#365F49",
         jobs: [
             {
-                title: "Development Team Lead",
+                title: "Engineering Manager",
                 from: "January 2023",
                 to: "Present",
-                format: "Remote",
-                location: "Batumi, Georgia",
+                format: "Hybrid",
+                location: "Valencia, Spain",
                 description: "Leading a cross-functional team of 10 developers, I identify and support the growth of talents, provide feedback, and oversee people's personal development. I collaborate with the team and product owner, as well as with other leads to enhance the project.",
                 achievements: [
                     "The project involves creating a storage system for company products with an editing interface. We provide an API for the production environment and a UI for internal users",

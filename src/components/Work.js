@@ -3,9 +3,9 @@ import Technologies from "./Technologies";
 
 const works = [
     {
-        name: "Holland & Barrett",
+        name: "Electronic Commerce Company",
         img: require("../img/hnb_logo.jpg"),
-        url: "https://www.hollandandbarrett.com/",
+        url: "",
         lineColor: "#365F49",
         jobs: [
             {
@@ -13,10 +13,13 @@ const works = [
                 from: "January 2023",
                 to: "Present",
                 format: "Hybrid",
-                location: "Valencia, Spain",
-                description: "Leading a cross-functional team of 10 developers, I identify and support the growth of talents, provide feedback, and oversee people's personal development. I collaborate with the team and product owner, as well as with other leads to enhance the project.",
+                location: "Batumi, Georgia",
+                description: "Designed and led development of a scalable storage system for 100k+ retail products, providing APIs and internal editing tools.",
                 achievements: [
-                    "The project involves creating a storage system for company products with an editing interface. We provide an API for the production environment and a UI for internal users",
+                    "Introduced architectural improvements in Go-based microservices, integrated with PostgreSQL and Memcache.",
+                    "Coordinated a cross-functional team of 10 engineers, ensuring delivery on roadmap and system reliability.",
+                    "Drove adoption of Gitlab CI/CD, improving system scalability and deployment speed.",
+                    "Created a RAG AI bot in corporate Slack with Gitlab/Confluence/Slack channel integrations."
                 ],
                 technologies: ["Go", "Kubernetes (k8s)", "PostgreSQL", "Memcache"],
             }

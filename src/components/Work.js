@@ -4,7 +4,7 @@ import Technologies from "./Technologies";
 const works = [
     {
         name: "Electronic Commerce Company",
-        img: require("../img/hnb_logo.jpg"),
+        img: "",
         url: "",
         lineColor: "#365F49",
         jobs: [

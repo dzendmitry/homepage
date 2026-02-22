@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/homepage/static/css/main.dc60bc4e.css",
-    "main.js": "/homepage/static/js/main.d1c2d1f9.js",
+    "main.js": "/homepage/static/js/main.34339273.js",
     "reactPlayerYouTube.js": "/homepage/static/js/reactPlayerYouTube.ac3737c4.chunk.js",
     "reactPlayerSoundCloud.js": "/homepage/static/js/reactPlayerSoundCloud.eca7dfd4.chunk.js",
     "reactPlayerVimeo.js": "/homepage/static/js/reactPlayerVimeo.4c54a5af.chunk.js",
@@ -17,11 +17,10 @@
     "reactPlayerFilePlayer.js": "/homepage/static/js/reactPlayerFilePlayer.9e806c07.chunk.js",
     "reactPlayerPreview.js": "/homepage/static/js/reactPlayerPreview.f0ad375d.chunk.js",
     "static/js/453.1eb5cc81.chunk.js": "/homepage/static/js/453.1eb5cc81.chunk.js",
-    "static/media/hnb_logo.jpg": "/homepage/static/media/hnb_logo.32e98c362b1a2ee8a6d4.jpg",
     "static/media/avatar.jpg": "/homepage/static/media/avatar.d6f86ee54448ec514f04.jpg",
     "index.html": "/homepage/index.html",
     "main.dc60bc4e.css.map": "/homepage/static/css/main.dc60bc4e.css.map",
-    "main.d1c2d1f9.js.map": "/homepage/static/js/main.d1c2d1f9.js.map",
+    "main.34339273.js.map": "/homepage/static/js/main.34339273.js.map",
     "reactPlayerYouTube.ac3737c4.chunk.js.map": "/homepage/static/js/reactPlayerYouTube.ac3737c4.chunk.js.map",
     "reactPlayerSoundCloud.eca7dfd4.chunk.js.map": "/homepage/static/js/reactPlayerSoundCloud.eca7dfd4.chunk.js.map",
     "reactPlayerVimeo.4c54a5af.chunk.js.map": "/homepage/static/js/reactPlayerVimeo.4c54a5af.chunk.js.map",
@@ -40,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.dc60bc4e.css",
-    "static/js/main.d1c2d1f9.js"
+    "static/js/main.34339273.js"
   ]
 }
